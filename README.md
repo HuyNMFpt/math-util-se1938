@@ -5,3 +5,8 @@
 * JUnit Test source code
 * Continuous Integration (CI) configuration
 * ...
+
+### Screen shot:
+![JUnit-TDD](https://github.com/HuyNMFpt/math-util/blob/main/images/math-util-intro.png)
+
+© 2026 Huy Nguyễn | fb/nm.huy.735532
